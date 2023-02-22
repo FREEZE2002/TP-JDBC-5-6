@@ -7,7 +7,7 @@ import epsi.b3.bo.Fournisseur;
 import java.sql.SQLException;
 import java.util.List;
 
-public interface ArticleDAO {
+public interface  ArticleDAO {
     void insert(Article article) throws SQLException;
 
     List<Article> findAll() throws SQLException;
