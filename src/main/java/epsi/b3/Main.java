@@ -45,6 +45,6 @@ public class Main {
             throw new RuntimeException(e);
         }
 
-        System.out.println("Working !🙆‍♂️");
+        System.out.println("it works");
     }
 }
